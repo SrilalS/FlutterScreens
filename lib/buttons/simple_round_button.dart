@@ -24,7 +24,7 @@ class SimpleRoundButton extends StatelessWidget {
           new Expanded(
             child: FlatButton(
               shape: new RoundedRectangleBorder(
-                  borderRadius: new BorderRadius.circular(32.0)),
+                  borderRadius: new BorderRadius.circular(28.0)),
               splashColor: this.backgroundColor,
               color: this.backgroundColor,
               child: new Row(
